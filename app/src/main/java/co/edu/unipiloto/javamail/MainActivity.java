@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     EditText etTo,etSubject,etMessage;
     Button btSend;
     String sEmail="calf381999@gmail.com";
-    String sPassword="381999TOMNNNcalf";
+    String sPassword="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
